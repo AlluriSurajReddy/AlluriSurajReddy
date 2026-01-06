@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Suraj 👋
 
-<!--
-**AlluriSurajReddy/AlluriSurajReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 3+ years of experience building Java-based backend and full-stack applications across healthcare, finance, and insurance domains.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Java, Python, JavaScript, SQL
+- **Backend:** Spring Boot, Spring Security, Hibernate, JPA, REST APIs, Microservices
+- **Frontend:** React, Angular, Next.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, Jenkins
+- **Practices:** Agile/Scrum, CI/CD, Code Reviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work On
+- Building and maintaining **Spring Boot microservices**
+- Developing **REST APIs** and integrating full-stack applications
+- Deploying and operating applications on **AWS**
+- Optimizing database performance and backend reliability
+
+## 📌 Featured Projects
+- **Saayam Volunteer Platform** – Java Spring Boot microservices for volunteer management  
+- **BotNest** – Full-stack AI chatbot platform (Next.js, OpenAI, PostgreSQL)  
+- **Financial Services Applications** – Java-based enterprise systems (Spring Boot, AWS)
+- 
