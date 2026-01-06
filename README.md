@@ -20,4 +20,4 @@ Senior Software Engineer with 3+ years of experience building Java-based backend
 - **Saayam Volunteer Platform** – Java Spring Boot microservices for volunteer management  
 - **BotNest** – Full-stack AI chatbot platform (Next.js, OpenAI, PostgreSQL)  
 - **Financial Services Applications** – Java-based enterprise systems (Spring Boot, AWS)
-- 
+
