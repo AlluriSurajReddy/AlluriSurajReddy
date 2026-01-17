@@ -1,6 +1,7 @@
 # Hi, I'm Suraj 👋
 
-Software Engineer with 4+ years of experience building Java-based backend and full-stack applications across healthcare, finance, and insurance domains.
+I’m a Software Engineer focused on building reliable backend and full-stack applications using Java, Spring Boot, and AWS.
+I enjoy working on real-world systems — APIs, microservices, databases, and cloud deployments — and improving them step by step.
 
 ## 💻 Tech Stack
 - **Languages:** Java, Python, JavaScript, SQL
@@ -11,13 +12,10 @@ Software Engineer with 4+ years of experience building Java-based backend and fu
 - **Practices:** Agile/Scrum, CI/CD, Code Reviews
 
 ## 🚀 What I Work On
-- Building and maintaining **Spring Boot microservices**
-- Developing **REST APIs** and integrating full-stack applications
-- Deploying and operating applications on **AWS**
-- Optimizing database performance and backend reliability
+- Designing and building Spring Boot microservices
+- Developing clean and scalable REST APIs
+- Integrating backend services with frontend applications
+- Deploying and running applications on AWS
+- Improving database performance and backend reliability
 
-## 📌 Featured Projects
-- **Saayam Volunteer Platform** – Java Spring Boot microservices for volunteer management  
-- **BotNest** – Full-stack AI chatbot platform (Next.js, OpenAI, PostgreSQL)  
-- **Financial Services Applications** – Java-based enterprise systems (Spring Boot, AWS)
-
+## 🤝 Let’s Connect
