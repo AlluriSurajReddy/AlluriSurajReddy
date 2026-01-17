@@ -1,6 +1,6 @@
 # Hi, I'm Suraj 👋
 
-Senior Software Engineer with 3+ years of experience building Java-based backend and full-stack applications across healthcare, finance, and insurance domains.
+Software Engineer with 4+ years of experience building Java-based backend and full-stack applications across healthcare, finance, and insurance domains.
 
 ## 💻 Tech Stack
 - **Languages:** Java, Python, JavaScript, SQL
