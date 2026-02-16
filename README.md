@@ -76,8 +76,8 @@ Contributing to a Java-based backend service for managing users and volunteers i
 
 ### 🌐 Portfolio
 
-Personal portfolio website:
-🔗 https://suraj-portfolio-flame.vercel.app/
+Personal portfolio website
+🔗 Link: https://suraj-portfolio-flame.vercel.app/
 ---
 
 ### 🤝 Let’s Connect
