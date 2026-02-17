@@ -1,86 +1,84 @@
-## Hi, I'm Suraj 👋
+# Hi, I’m Suraj 👋
 
-I'm a Software Engineer who enjoys building reliable backend and full-stack applications.  
-My work focuses on Java, Spring Boot, cloud-native systems, and clean API design.
+Backend-focused Software Engineer building scalable Java & cloud-native systems.
 
-I like working on real-world problems — designing services, integrating systems, improving performance, and shipping features step by step.
-
----
-
-### 💻 Tech Stack
-
-**Languages**  
-Java, Python, JavaScript, SQL
-
-**Backend**  
-Spring Boot, Spring Security, Hibernate, JPA, REST APIs, Microservices
-
-**Frontend**  
-React, Angular, Next.js
-
-**Databases**  
-PostgreSQL, MySQL, MongoDB
-
-**Cloud & DevOps**  
-AWS (EC2, S3, RDS, Lambda), Docker, CI/CD
-
-**Practices**  
-Agile/Scrum, API Design, Code Reviews, System Design
+I design and implement production-style backend services using Spring Boot, microservices architecture, and AWS.  
+My focus is on clean API contracts, reliable data handling, and systems that are easy to scale and maintain.
 
 ---
 
-### 🚀 What I Work On
+## 🛠 Core Engineering Focus
 
-- Building Spring Boot microservices and backend systems  
-- Designing clean, scalable REST APIs  
-- Integrating backend services with frontend applications  
-- Deploying and running applications on AWS  
-- Improving reliability, performance, and maintainability
-
----
-
-### 📌 Featured Projects
-
-#### 🤖 BotNest (Capstone Project)
-A customizable AI chatbot platform designed to build, train, and deploy AI-driven assistants.
-
-- Backend and platform-level development
-- API design, database integration, and deployment workflows
-- Agile team collaboration on a full-scale system
-
-🔗 Repository: https://github.com/BotNestOrg/BotNest
+- Designing modular Spring Boot microservices
+- Building secure, role-based REST APIs
+- Structuring database models for consistency & traceability
+- Containerizing services with Docker
+- Deploying and monitoring applications on AWS
+- Improving performance and system reliability
 
 ---
 
-#### 🧑‍🍳 Masterchef Web App (Team Project)
-A full-stack web application for recipe discovery and sharing.
+## 💻 Tech Stack
 
-- Backend development using Django and PostgreSQL  
-- Authentication, data modeling, and business logic  
-- API integrations and collaboration with frontend
+**Languages:**  
+Java, Python, JavaScript, SQL  
 
-🔗 Repository: https://github.com/niral-nadisara/Masterchef
+**Backend:**  
+Spring Boot, Spring Security, Hibernate, JPA, REST APIs, Microservices  
 
----
+**Frontend:**  
+React, Angular, Next.js  
 
-#### 🤝 Saayam For All (Open Source Contribution)
-Contributing to a Java-based backend service for managing users and volunteers in a social impact platform.
+**Databases:**  
+PostgreSQL, MySQL, MongoDB  
 
-- REST APIs and backend service development
-- Dockerized services and cloud-ready deployment
-- Open-source collaboration and code reviews
-
-🔗 Repository: https://github.com/saayam-for-all/volunteer
+**Cloud & DevOps:**  
+AWS (EC2, S3, RDS, Lambda), Docker, CI/CD  
 
 ---
 
-### 🌐 Portfolio
+## 🚀 Featured Work
 
-Personal portfolio website
-🔗 Link: https://suraj-portfolio-flame.vercel.app/
+### 🤝 Saayam For All (Open Source Backend Contribution)
+Contributing to a Java-based microservices backend for a social impact volunteer platform.
+
+- Backend API development using Spring Boot  
+- Feature-branch based collaboration workflow  
+- Dockerized services with cloud-ready configuration  
+- REST endpoint design and service integration  
+
+🔗 https://github.com/saayam-for-all/volunteer  
+
 ---
 
-### 🤝 Let’s Connect
+### 🤖 BotNest (AI Chat Platform – Capstone)
+A customizable AI chatbot platform designed to build and deploy AI-driven assistants.
 
-- LinkedIn: https://www.linkedin.com/in/mrsurajreddy 
-- GitHub: https://github.com/AlluriSurajReddy
+- Backend & platform-level system design  
+- API architecture and database modeling  
+- Deployment workflows and environment configuration  
+- Team-based Agile development  
+
+🔗 https://github.com/BotNestOrg/BotNest  
+
+---
+
+### 🧑‍🍳 Masterchef Web App (Full-Stack Team Project)
+Recipe discovery and sharing platform.
+
+- Backend business logic & authentication flows  
+- Data modeling with PostgreSQL  
+- API integrations with frontend team  
+
+🔗 https://github.com/niral-nadisara/Masterchef  
+
+---
+
+## 🌐 Portfolio
+https://suraj-portfolio-flame.vercel.app/
+
+---
+
+## 🤝 Connect
+LinkedIn: https://www.linkedin.com/in/mrsurajreddy  
+GitHub: https://github.com/AlluriSurajReddy
